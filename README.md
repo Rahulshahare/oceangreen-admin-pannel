@@ -1,2 +1,1 @@
-# Oceangreen Admin Pannel 
-Built with reactjs, reduxjs and react router 
+### Oceangreen Admin Pannel - Built with reactjs, reduxjs and react router 
